@@ -1,2 +1,2 @@
-const x = 100
-;
+const x = 100;
+console.log(x);
